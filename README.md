@@ -36,8 +36,4 @@ the correct key as fast as possible. Response time is recorded in milliseconds.
 3. Press **Space** to start
 4. React to each stimulus as fast as possible
 
----
-
-    ├── input.js     ← keydown listener, correct/wrong detection
-    └── app.js       ← round logic, results display
 ```
